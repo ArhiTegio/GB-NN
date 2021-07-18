@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelUnet.mdw"
+all_model_checkpoint_paths: "modelUnet.mdw"
